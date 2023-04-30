@@ -1,13 +1,13 @@
 import requests
+from export.env import VAULT_TOKEN
 
 
 class Vault:
     def __init__(self):
         self.url = 'http://192.168.60.152:8200/'
-        self.token = 'root'
         self.headers = {
             'Content-Type': 'application/json',
-            'X-Vault-Token': self.token
+            'X-Vault-Token': VAULT_TOKEN
         }
     
     def get_secret(self, path):
