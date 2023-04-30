@@ -14,11 +14,11 @@ memory_ram = np.random.uniform(memory_ram_range[0], memory_ram_range[1], size=nu
 memory_swap = np.random.uniform(memory_swap_range[0], memory_swap_range[1], size=num_servers)
 disk_usage = np.random.uniform(disk_usage_range[0], disk_usage_range[1], size=num_servers)
 
-df = pd.DataFrame({'CPU Load (%)': cpu_load,
+df = pd.DataFrame({'CPU Load (%)': cpu_load.round(2),
                    'CPU Cores': cpu_cores,
-                   'Memory RAM Usage (%)': memory_ram,
-                   'Memory Swap Usage (%)': memory_swap,
-                   'Disk Usage (%)': disk_usage})
+                   'Memory RAM Usage (%)': memory_ram.round(2),
+                   'Memory Swap Usage (%)': memory_swap.round(2),
+                   'Disk Usage (%)': disk_usage.round(2)})
 
 df['Downgrade'] = ((df['CPU Load (%)'] > 70.0) | (df['Memory Swap Usage (%)'] > 50.0) | (df['CPU Cores'] > 16) | ((df['Memory RAM Usage (%)'] + df['Memory Swap Usage (%)']) > 70.0) | (df['Disk Usage (%)'] > 80.0))
 
