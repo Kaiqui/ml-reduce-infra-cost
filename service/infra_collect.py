@@ -1,5 +1,4 @@
 import psutil
-from psutil._common import bytes2human
 import socket
 import requests
 import time
@@ -26,19 +25,7 @@ def system_info():
         cpu_load=round(psutil.getloadavg()[1],2),
         virtual_memory=psutil.virtual_memory().percent,
         swap_memory=psutil.swap_memory().percent,
-        disk_usage=psutil.disk_usage('/').percent,
-        read_count=float(bytes2human(psutil.disk_io_counters().read_count)[:-1]),
-        read_count_unit=bytes2human(psutil.disk_io_counters().read_count)[-1],
-        write_count=float(bytes2human(psutil.disk_io_counters().write_count)[:-1]),
-        write_count_unit=bytes2human(psutil.disk_io_counters().write_count)[-1],
-        bytes_sent=float(bytes2human(psutil.net_io_counters().bytes_sent)[:-1]),
-        bytes_sent_unit=bytes2human(psutil.net_io_counters().bytes_sent)[-1],
-        bytes_recv=float(bytes2human(psutil.net_io_counters().bytes_recv)[:-1]),
-        bytes_recv_unit=bytes2human(psutil.net_io_counters().bytes_recv)[-1],
-        packets_sent=float(bytes2human(psutil.net_io_counters().packets_sent)[:-1]),
-        packets_sent_unit=bytes2human(psutil.net_io_counters().packets_sent)[-1],
-        packets_recv=float(bytes2human(psutil.net_io_counters().packets_recv)[:-1]),
-        packets_recv_unit=bytes2human(psutil.net_io_counters().packets_recv)[-1]
+        disk_usage=psutil.disk_usage('/').percent
     )
 
 while True:
