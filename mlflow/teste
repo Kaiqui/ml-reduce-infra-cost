@@ -1,0 +1,1 @@
+mlflow server --backend-store-uri oracle://system:oracle@localhost:1521/XE --host 0.0.0.0
