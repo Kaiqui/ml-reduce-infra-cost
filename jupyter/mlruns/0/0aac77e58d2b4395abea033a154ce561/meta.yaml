@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jsalnx01/work_dir/ml-reduce-infra-cost/jupyter/mlruns/0/0aac77e58d2b4395abea033a154ce561/artifacts
+end_time: 1682953722581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0aac77e58d2b4395abea033a154ce561
+run_name: melodic-lynx-522
+run_uuid: 0aac77e58d2b4395abea033a154ce561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682953627365
+status: 3
+tags: []
+user_id: jsalnx01

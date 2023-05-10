@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/342375935368439751/e17dfa67ace649fc82b399c422013fb7/artifacts
+end_time: 1682963785728
+entry_point_name: ''
+experiment_id: '342375935368439751'
+lifecycle_stage: active
+run_id: e17dfa67ace649fc82b399c422013fb7
+run_name: rumbling-worm-74
+run_uuid: e17dfa67ace649fc82b399c422013fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682963785686
+status: 4
+tags: []
+user_id: jsalnx01

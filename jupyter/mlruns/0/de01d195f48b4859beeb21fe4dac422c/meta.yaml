@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jsalnx01/work_dir/ml-reduce-infra-cost/jupyter/mlruns/0/de01d195f48b4859beeb21fe4dac422c/artifacts
+end_time: 1682960690167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de01d195f48b4859beeb21fe4dac422c
+run_name: smiling-sheep-758
+run_uuid: de01d195f48b4859beeb21fe4dac422c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682960690092
+status: 4
+tags: []
+user_id: jsalnx01

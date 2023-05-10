@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jsalnx01/work_dir/ml-reduce-infra-cost/jupyter/mlruns/0/69657a4908ac47d5a42168df0d8bc94d/artifacts
+end_time: 1682950513634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69657a4908ac47d5a42168df0d8bc94d
+run_name: casual-grub-829
+run_uuid: 69657a4908ac47d5a42168df0d8bc94d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682950513595
+status: 4
+tags: []
+user_id: jsalnx01

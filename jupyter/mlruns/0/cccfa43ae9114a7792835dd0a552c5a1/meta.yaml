@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jsalnx01/work_dir/ml-reduce-infra-cost/jupyter/mlruns/0/cccfa43ae9114a7792835dd0a552c5a1/artifacts
+end_time: 1682950488970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cccfa43ae9114a7792835dd0a552c5a1
+run_name: colorful-crane-669
+run_uuid: cccfa43ae9114a7792835dd0a552c5a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682950488955
+status: 4
+tags: []
+user_id: jsalnx01

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/342375935368439751/cfe2aefa6eed4a67ac55652b981b8c23/artifacts
+end_time: 1682961810551
+entry_point_name: ''
+experiment_id: '342375935368439751'
+lifecycle_stage: active
+run_id: cfe2aefa6eed4a67ac55652b981b8c23
+run_name: redolent-rook-804
+run_uuid: cfe2aefa6eed4a67ac55652b981b8c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682961807830
+status: 3
+tags: []
+user_id: jsalnx01

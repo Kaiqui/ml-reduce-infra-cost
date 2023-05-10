@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/342375935368439751/495aff8553c044d5bafc568abd3edab2/artifacts
+end_time: 1682963673906
+entry_point_name: ''
+experiment_id: '342375935368439751'
+lifecycle_stage: active
+run_id: 495aff8553c044d5bafc568abd3edab2
+run_name: wistful-newt-86
+run_uuid: 495aff8553c044d5bafc568abd3edab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682963673865
+status: 4
+tags: []
+user_id: jsalnx01

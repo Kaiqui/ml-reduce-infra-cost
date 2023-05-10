@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/342375935368439751/e212562b68cb4929b6e42759b0832898/artifacts
+end_time: 1682961656928
+entry_point_name: ''
+experiment_id: '342375935368439751'
+lifecycle_stage: active
+run_id: e212562b68cb4929b6e42759b0832898
+run_name: bustling-gull-859
+run_uuid: e212562b68cb4929b6e42759b0832898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682961651927
+status: 3
+tags: []
+user_id: jsalnx01

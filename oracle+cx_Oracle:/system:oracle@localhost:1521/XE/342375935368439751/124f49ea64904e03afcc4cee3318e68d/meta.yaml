@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/342375935368439751/124f49ea64904e03afcc4cee3318e68d/artifacts
+end_time: 1682964519168
+entry_point_name: ''
+experiment_id: '342375935368439751'
+lifecycle_stage: active
+run_id: 124f49ea64904e03afcc4cee3318e68d
+run_name: shivering-hawk-213
+run_uuid: 124f49ea64904e03afcc4cee3318e68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682964517523
+status: 3
+tags: []
+user_id: jsalnx01

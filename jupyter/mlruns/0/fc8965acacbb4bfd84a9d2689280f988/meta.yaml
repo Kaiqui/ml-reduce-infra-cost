@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jsalnx01/work_dir/ml-reduce-infra-cost/jupyter/mlruns/0/fc8965acacbb4bfd84a9d2689280f988/artifacts
+end_time: 1682960676148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc8965acacbb4bfd84a9d2689280f988
+run_name: polite-squid-524
+run_uuid: fc8965acacbb4bfd84a9d2689280f988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682960676034
+status: 4
+tags: []
+user_id: jsalnx01

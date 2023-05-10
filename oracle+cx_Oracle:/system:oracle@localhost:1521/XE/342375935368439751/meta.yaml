@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/342375935368439751
+creation_time: 1682961574540
+experiment_id: '342375935368439751'
+last_update_time: 1682961574540
+lifecycle_stage: active
+name: NeuralNetwork
